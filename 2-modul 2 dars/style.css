@@ -1,0 +1,36 @@
+body{
+    background-color: darkslategray;
+}
+h1{
+    color: white;
+    background-color:rgb(69, 21, 21);
+    width: 350px;
+    text-align: center;
+    padding: 15px;
+    margin-left: 550px;
+    font-size: 40px;
+}
+.box{
+    background-color: black;
+width: 850px;
+margin: auto;
+padding: 30px;
+border: 8px solid red;
+
+}
+h2{
+    color: black;
+}
+.aka{
+    background-color: rgb(96, 226, 183);
+    width: 750px;
+    margin: auto;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.uka{
+    background-color: rgb(96, 226, 183);
+    width: 750px;
+    margin: auto;
+    padding: 30px;
+}
